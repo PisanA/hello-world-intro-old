@@ -5,7 +5,7 @@
 class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello, CSS 142 Student!"); 
+        System.out.println("Hello, World!"); 
     }
     
     public static void printStarPiramid() {
@@ -13,7 +13,7 @@ class HelloWorld {
         System.out.println("   ***");
         System.out.println("  *****");
         System.out.println(" *******");
-        System.out.println("*********");
+        System.out.println("********* ");
     }
     
     public static void printFace() {

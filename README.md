@@ -1,4 +1,18 @@
 # hello-world-intro
+<br />
+
+## Steps to download and work on the assignment
+1. Download the .zip files by clicking on "Download ZIP"
+![image](https://user-images.githubusercontent.com/54456351/120839210-86ba1e80-c51d-11eb-9dda-f63d612fa81a.png)
+2. Click on "New" button on the top of the screen to create new respository
+![image](https://user-images.githubusercontent.com/54456351/120839337-a9e4ce00-c51d-11eb-80fd-7ff96468484b.png)
+3. Enter the "Repository name" (It can be any name you like) and click on "Create repository"
+![image](https://user-images.githubusercontent.com/54456351/120839416-c2ed7f00-c51d-11eb-8ba6-9388a18f1956.png)
+4. Click on "upload an exsiting file" to choose the .zip file you just download in Step 1 and click on "Commit changes" to submit
+![image](https://user-images.githubusercontent.com/54456351/120839798-3abba980-c51e-11eb-9335-363b462bc32c.png)
+- You can also upload the .zip file via "Upload files"
+![image](https://user-images.githubusercontent.com/54456351/120840726-730fb780-c51f-11eb-843b-d8894afa67a0.png)
+5. Work on the .java file and until you complete
 
 Your first assignment in GitHub Classroom is to fix the error in the Hello World java file!
 
@@ -53,7 +67,7 @@ It expects "Hello, World!" but receives "Hello, World! " (with an extra space at
 
 <br />
 <br />
-<br />
+
 
 ### Checkstyle
 

@@ -9,7 +9,7 @@ class HelloWorld {
     }
     
     public static void printStarPiramid() {
-        System.out.println("    *"); //an extra space was added in the end to make test case failed
+        System.out.println("   *"); //an extra space was added in the end to make test case failed
         System.out.println("   ***");
         System.out.println("  *****");
         System.out.println(" *******");
@@ -17,7 +17,7 @@ class HelloWorld {
     }
     
     public static void printFace() {
-        System.out.println(" +\"\"\"\"\"+\"); //an extra space was added in the end to make test case failed
+        System.out.println(" +\"\"\"\"\"\"); //an extra space was added in the end to make test case failed
         System.out.println("[| o o |]");
         System.out.println(" |  ^  | ");
         System.out.println(" | '-' | ");

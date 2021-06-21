@@ -23,11 +23,11 @@ if (condition) {  <br>
 &emsp;    statement; <br>
 } 
 <br><br>
-## 'if' construct must use '{}'s 
+## 'if' construct must use '{}'s.
 Even when you only have 1 statement in your constructor, you should uses '{}' 
 <br><br>
-## "Only one statement per line allowed." 
+## Only one statement per line allowed.
 Code should only have 1 statement per line for readability.
 <br><br>
-## WhitespaceAround: '=' is not preceded with whitespace and WhitespaceAround: '=' is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3)
+## WhitespaceAround: '=' is not preceded with whitespace **and** WhitespaceAround: '=' is not followed by whitespace. Empty blocks may only be represented as {} when not part of a multi-block statement (4.1.3).
 There should be a space before and after '+', '-', '*', '/', '=', '<', '>', ... ';' should be followed by a space if there is anything after it

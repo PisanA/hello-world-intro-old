@@ -1,6 +1,6 @@
 # hello-world-intro
-<br />
-
+<br>
+<!--
 ## Steps to download and work on the assignment
 1. Download the .zip files by clicking on "Download ZIP"
 ![image](https://user-images.githubusercontent.com/54456351/120839210-86ba1e80-c51d-11eb-9dda-f63d612fa81a.png)
@@ -13,14 +13,17 @@
 - You can also upload the .zip file via "Upload files"
 ![image](https://user-images.githubusercontent.com/54456351/120840726-730fb780-c51f-11eb-843b-d8894afa67a0.png)
 5. Work on the .java file and until you complete
-
+-->
 Your first assignment in GitHub Classroom is to fix the error in the Hello World java file!
 
-Click on "HelloWorld.java" to see what is provided as your starter code. 
+1. Click on "HelloWorld.java" to see what is provided as your starter code. 
+2. Add your code in the "HelloWorld.java" and commit changes
+3. Check for bugs and suggestions in "Actions" ![image](https://user-images.githubusercontent.com/54456351/122830040-a0d55a00-d29c-11eb-8e7f-a73c1a56546d.png)
+4. Repeat step 3 and 4 until the assignment is completed
 
 ![image](https://user-images.githubusercontent.com/54456351/119812273-d3a65100-be9c-11eb-9c53-326b5fc460c3.png)
 
-After committing/uploading your Java files. Click "Actions" to see the report. \
+After committing/uploading your Java files. Click "Actions" to see the report. <br>
 When committing, GitHub will ask you to enter a message. It helps to easily understand why a change has been made at a particular time and distinguish between each commission.\
 ![image](https://user-images.githubusercontent.com/54456351/119812799-66df8680-be9d-11eb-8fec-24645619be13.png)
 <br />

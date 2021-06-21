@@ -24,18 +24,18 @@ Your first assignment in GitHub Classroom is to fix the error in the Hello World
 ![image](https://user-images.githubusercontent.com/54456351/119812273-d3a65100-be9c-11eb-9c53-326b5fc460c3.png)
 
 After committing/uploading your Java files. Click "Actions" to see the report. <br>
-When committing, GitHub will ask you to enter a message. It helps to easily understand why a change has been made at a particular time and distinguish between each commission.\
+When committing, GitHub will ask you to enter a message. It helps to easily understand why a change has been made at a particular time and distinguish between each commission.<br>
 ![image](https://user-images.githubusercontent.com/54456351/119812799-66df8680-be9d-11eb-8fec-24645619be13.png)
-<br />
-<br />
+<br>
+<br>
 
 
 ## Action
-This is the action page:\
-![image](https://user-images.githubusercontent.com/54456351/119814197-fc2f4a80-be9e-11eb-86ad-00f6c5b5d238.png) <br />
-The workflow are your commissions from newest to latest. \
-Click on the one that you want to see the report. <br /> <br />
-This means the workflow is in progress, and you have to wait until it changes the status.\
+This is the action page: <br>
+![image](https://user-images.githubusercontent.com/54456351/119814197-fc2f4a80-be9e-11eb-86ad-00f6c5b5d238.png) <br>
+The workflow are your commissions from newest to latest. <br>
+Click on the one that you want to see the report. <br><br>
+This means the workflow is in progress, and you have to wait until it changes the status.<br>
 ![image](https://user-images.githubusercontent.com/54456351/119813577-51b72780-be9e-11eb-8449-c84e2850f125.png) <br /> <br /> <br />
 
 This means the workflow is failed. You can see your details in the reports inside it.\
